@@ -17,8 +17,3 @@ devtools::install_github('GitHubName/repo')
 You can also create links to files in your repository, for example the script ["hello.R"](R/hello.R) 
 in the R folder  
 
-title: Architect theme 
-description: Architect is a theme for GitHub Pages. 
-show_downloads: true 
-google_analytics: 
-theme: jekyll-theme-architect 
